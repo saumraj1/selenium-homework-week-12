@@ -83,11 +83,6 @@ public class ElectronicsTest extends Utility {
         sendTextToElement(By.id("ConfirmPassword"),"********");
         clickOnElement(By.id("register-button"));
 
-
-
-
-
-
         driver.close();
 
 
